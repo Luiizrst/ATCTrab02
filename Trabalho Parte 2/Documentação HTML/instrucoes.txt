@@ -1,0 +1,3 @@
+Para acessar a documentação abrir o arquivo:
+"index.html"
+A partir do mesmo é possível navegar por toda a documentação.
